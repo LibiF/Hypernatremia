@@ -1,4 +1,3 @@
-# Hypernatremia
-Code used for the analysis in "Rate of Correction and All-Cause Mortality in Patients With Severe Hypernatremia" by Feigin et al
+# Hypernatremia Analysis notebook
 
-Code will be uploaded by the end of October 23'
+* Certain parts of the code are commented out due to the presence of multiple possible groupings and comparison strategies. Users may uncomment the appropriate lines to perform analyses for specific groups of interest.
